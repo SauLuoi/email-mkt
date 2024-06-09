@@ -1,0 +1,38 @@
+.b-footer {
+  position: relative;
+  padding-top: 130px;
+  padding-bottom: 20px;
+  margin-top: -130px;
+
+  @media only screen and (max-width: $md) {
+    padding-top: 60px;
+    margin-top: 0;
+  }
+
+  &::after {
+    content: "";
+    background-color: $white;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 120px;
+    width: 100%;
+    border-radius: 0 0 200px 0;
+    z-index: 0;
+    @media only screen and (max-width: $md) {
+      height: 55px;
+    }
+  }
+
+  .logo {
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 88px;
+
+    img {
+      min-height: 88px;
+    }
+  }
+}

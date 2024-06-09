@@ -1,0 +1,36 @@
+* {
+  font-size: 16px;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.br-right-bottom {
+  border-radius: 0 0 200px 0;
+}
+
+ul {
+  padding-left: 0;
+
+  li {
+    padding-bottom: .5rem;
+
+    &::marker {
+      color: $secondary;
+    }
+  }
+}
+
+.z-1 {
+  position: relative;
+  z-index: 1;
+}

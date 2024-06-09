@@ -1,0 +1,38 @@
+.b-list {
+  .item {
+    margin-bottom: 12px;
+
+    .icon {
+      width: 96px;
+      height: 96px;
+      border-radius: 100%;
+      border: solid 1.5px $third;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+      padding: 1rem;
+
+      img {
+        max-height: 100%;
+      }
+    }
+
+    p {
+      flex: 1;
+      margin: 0 12px;
+    }
+  }
+
+  .desc {
+    text-align: justify;
+    line-height: 1.6;
+  }
+}
+
+.b-highlight {
+  background-color: #D964B026;
+  color: $secondary;
+  font-weight: 500;
+  border-radius: 15px 15px 100px 15px;
+}
