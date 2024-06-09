@@ -166,6 +166,7 @@ ul li::marker {
 .desc {
   text-align: justify;
   line-height: 1.6;
+  word-wrap: break-word;
 }
 
 /*# sourceMappingURL=index.css.map */
