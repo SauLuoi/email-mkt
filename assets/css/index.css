@@ -155,16 +155,17 @@ ul li::marker {
   flex: 1;
   margin: 0 12px;
 }
-.b-list .desc {
-  text-align: justify;
-  line-height: 1.6;
-}
 
 .b-highlight {
   background-color: #D964B026;
   color: #93358D;
   font-weight: 500;
   border-radius: 15px 15px 100px 15px;
+}
+
+.desc {
+  text-align: justify;
+  line-height: 1.6;
 }
 
 /*# sourceMappingURL=index.css.map */
