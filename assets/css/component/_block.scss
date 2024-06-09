@@ -12,6 +12,11 @@
       justify-content: center;
       margin: 0 auto;
       padding: 1rem;
+      @media screen and (max-width: $md){
+        width: 48px;
+        padding: 5px;
+        height: 48px;
+      }
 
       img {
         max-height: 100%;
