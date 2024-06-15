@@ -24,11 +24,17 @@
   background-color: #7F1784 !important;
 }
 
+.bg-gradient {
+  background: linear-gradient(90deg, #cb489d 0%, #c5449b 3%, #a63091 20%, #902289 60%, #831985 80%, #7F1784 100%) !important;
+  background: #7F1784;
+}
+
 * {
   font-size: 16px;
   margin: 0;
   box-sizing: border-box;
   padding: 0;
+  letter-spacing: 0.5px;
   font-family: "Montserrat", sans-serif;
 }
 @media screen and (max-width: 768px) {
@@ -126,7 +132,7 @@ ul li::marker {
 @media only screen and (max-width: 768px) {
   .b-footer {
     padding-top: 60px;
-    margin-top: 0;
+    margin-top: -50px;
   }
 }
 .b-footer::after {
@@ -163,7 +169,7 @@ ul li::marker {
   width: 96px;
   height: 96px;
   border-radius: 100%;
-  border: solid 1.5px #D368A5;
+  border: solid 2.5px #D368A5;
   display: flex;
   align-items: center;
   justify-content: center;
