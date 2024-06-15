@@ -95,9 +95,9 @@ ul li::marker {
   margin-bottom: 10vh;
 }
 .p-cove p {
-  max-width: 290px;
   margin: 0 auto;
   font-weight: 500;
+  text-align: center;
 }
 @media screen and (max-width: 650px) {
   .p-cove p {
@@ -106,12 +106,17 @@ ul li::marker {
     margin-top: 15px;
   }
 }
+.p-cove figure img {
+  object-fit: contain;
+  height: 80vh;
+}
 @media screen and (max-width: 650px) {
   .p-cove figure {
     width: 100%;
   }
   .p-cove figure img {
     width: 100%;
+    height: auto;
   }
 }
 
