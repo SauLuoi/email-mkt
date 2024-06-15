@@ -1,0 +1,50 @@
+.bg-four {
+  background-color: $four !important;
+}
+
+.bg-purple-black {
+  background-color: $purple-black !important;
+}
+
+.bg-gradient {
+  background: linear-gradient(90deg, #FF4800 0%, #FF4B00 25%, #FF5700 50%, #FF6900 75%, #FF8200 96%, #FF8200 100%) !important;
+  background: #7F1784;
+}
+
+.bg-gray-dark {
+  background-color: $gray-dark !important;
+}
+
+.bg-brown {
+  background-color: $brown !important;
+}
+
+.bg-third {
+  background-color: $third !important;
+}
+
+.bg-gray-light {
+  background-color: $gray-light;
+}
+
+.bg-arrow {
+  background-color: $brown-10;
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: url("../images/icon-2/icon-arrow-right.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 60px;
+    width: 42px;
+  }
+}
+
+.bg-pink-light {
+  background-color: $pink-light;
+}

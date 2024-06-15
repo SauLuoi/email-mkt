@@ -1,9 +1,9 @@
 * {
-  font-size: 16px;
   margin: 0;
   box-sizing: border-box;
   padding: 0;
   letter-spacing: 0.5px;
+  font-size: 14px;
   font-family: "Montserrat", sans-serif;
 
   @media screen and (max-width: $md){
@@ -20,13 +20,12 @@ p {
 }
 
 .br-right-bottom {
-  border-radius: 0 0 200px 0;
-
-  @media screen and (max-width: $sm) {
-    border-radius: 0 0 125px 0;
-  }
+  border-radius: 0 0 110px 0;
 }
 
+.br {
+  border-radius: 10px;
+}
 ul {
   padding-left: 15px;
 

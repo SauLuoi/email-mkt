@@ -8,6 +8,24 @@
     font-weight: 500;
     letter-spacing: -1px;
     word-spacing: 3px;
+
+    @media screen and (max-width: $sm) {
+      max-width: 100%;
+      font-size: 18px;
+      margin-top: 15px;
+    }
+  }
+
+  @media screen and (max-width: $sm) {
+    min-height: 90vh;
+    margin-bottom: 10vh;
+    figure {
+      width: 100%;
+
+      img {
+        width: 100%;
+      }
+    }
   }
 }
 
@@ -16,7 +34,7 @@
   min-height: 120px;
   padding-left: 200px;
 
-  @media screen and (max-width: $md){
+  @media screen and (max-width: $md) {
     min-height: 60px;
     padding-left: 100px;
   }
@@ -30,7 +48,7 @@
     background-size: 100% 100%;
     top: 0;
     left: 0;
-    @media screen and (max-width: $md){
+    @media screen and (max-width: $md) {
       width: 84px;
     }
   }

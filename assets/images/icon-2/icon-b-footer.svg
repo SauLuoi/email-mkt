@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.202" height="66.17" viewBox="0 0 53.202 66.17">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1355" data-name="Path 1355" d="M1149.512,765.3v50.862h28.493a25.34,25.34,0,0,0,9.043-1.412,21.9,21.9,0,0,0,.981-6.9,15.788,15.788,0,0,0-1.92-8.141,13.274,13.274,0,0,0-5.935-5.155,15.043,15.043,0,0,0,5.848-5.712,19.052,19.052,0,0,0,.369-15.622,12.441,12.441,0,0,0-9.44-7.286,42.721,42.721,0,0,0-8.189-.637Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-13.87" y1="1.506" x2="-13.844" y2="1.506" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6e00"/>
+      <stop offset="0.108" stop-color="#ff6e00"/>
+      <stop offset="0.436" stop-color="#ff5a00"/>
+      <stop offset="0.523" stop-color="#fc5702"/>
+      <stop offset="1" stop-color="#f44d0b"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_1357" data-name="Path 1357" d="M1142.169,765.3v58.516h28.495q8.91,0,13.138-3.882a12.036,12.036,0,0,0,3.246-5.184,25.34,25.34,0,0,1-9.043,1.412h-28.493V765.3Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_345" data-name="Group 345" transform="translate(-1142.169 -757.646)">
+    <g id="Group_222" data-name="Group 222">
+      <g id="Group_221" data-name="Group 221" clip-path="url(#clip-path)">
+        <rect id="Rectangle_316" data-name="Rectangle 316" width="38.517" height="50.862" transform="translate(1149.512 765.3)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Path_1356" data-name="Path 1356" d="M1193.451,792.057a13.263,13.263,0,0,0-5.936-5.154,15.046,15.046,0,0,0,5.848-5.713,19.057,19.057,0,0,0,.37-15.622,12.437,12.437,0,0,0-9.441-7.285,42.71,42.71,0,0,0-8.188-.637h-26.593V765.3h19.251a42.71,42.71,0,0,1,8.189.638,12.439,12.439,0,0,1,9.44,7.284,19.054,19.054,0,0,1-.369,15.623,15.043,15.043,0,0,1-5.848,5.712,13.268,13.268,0,0,1,5.935,5.155,15.788,15.788,0,0,1,1.92,8.141,21.87,21.87,0,0,1-.982,6.9,12.714,12.714,0,0,0,4.1-2.47q4.229-3.882,4.228-12.082a15.788,15.788,0,0,0-1.92-8.141" fill="#ff8c00"/>
+    <g id="Group_224" data-name="Group 224">
+      <g id="Group_223" data-name="Group 223" clip-path="url(#clip-path-2)">
+        <image id="Rectangle_317" data-name="Rectangle 317" width="45.12" height="58.8" transform="translate(1142.052 765.09)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAAD1CAYAAADqHp8PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAU9SURBVHhe7dQJ6yBSGIXxe/+fZDCD2fd9acbY97FmG8usjH3fRfZ93xJJkkgSSaJJJJFEIpFkIhEREXLNqfMpzvv86u2eD/B0+1jVJjWgiAm/QAn64XfxBuIp+F29gXgKfjdvIJ6Cn+wNxFPwU7yBeAp+d28gnoLfwxuIp+CnegPxFPw0byCegp/uDcRT8DO8gXgKfqY3EE/Bz/IG4in42d5APAU/xxuIp+DnegPxFPw8byCegp/vDcTrY2Vb4A3EU/ALvYF4Cn6RNxBPwS/2BuIp+CXeQDwFv9QbiKfgl3kD8RT8cm8gnoJf4Q3EU/ArvYF4Cn6VNxBPwa/2BuIp+DXeQDwFv5c3EE/Br/UG4in4vb2BeAp+H28gnoLf1xuIp+D38wbiKfj9vYF4Cv4AbyCegj/QG4in4A/yBuIp+IO9gXgK/hBvIJ6CP9QbiKfgD/MG4in4w72BeAp+nTcQT8Ef4Q3EU/BHegPxFPxR3kA8BX+0NxBPwR/jDcRT8Md6A/EU/HHeQDwFf7w3EE/Bn+ANxOtjRTvRG4in4E/yBuIp+PXeQDwFf7I3EE/Bn+INxFPwp3oD8RT8ad5APAW/wRuIp+A3egPxFPwmbyCegt/sDcRT8Fu8gXgKfqs3EE/Bn+4NxFPwZ3gD8RT8Nm8gnoI/0xuIp+DP8gbiKfizvYF4Cv4cbyCegj/XG4in4M/zBuIp+PO9gXgK/gJvIJ6Cv9AbiKfgL/IG4in4i72BeAr+Em8gnoK/1BuIp+Av8wbiKfjLvYF4Cv4KbyCegr/SG4in4K/yBuIp+Ku9gXgK/hpvIN7EzuscV+X0w1+7cwAlKPjrvIF4Cv56byBeH8vbDd5APAV/ozcQT8Hf5A3EU/A3ewPxFPwt3kA8BX+rNxBPwd/mDcRT8Ld7A/EU/B3eQDwFf6c3EE/B3+UNxFPwd3sD8RT8Pd5APAV/rzcQT8Hf5w3EU/D3ewPxFPwD3kA8Bf+gNxBPwT/kDcRT8A97A/EU/CPeQDwF/6g3EE/BP+YNxOtjWXvcG4in4J/wBuIp+Ce9gXh9LG1PeQPxFPzT3kA8Bf+MNxCvjyXtWW8gnoJ/zhuIp+Cf9wbi9bG4veANxFPwL3oD8RT8S95AvD4WtZe9gXgK/hVvIJ6Cf9UbiNfHwvaaNxBPwb/uDcRT8G94A/H6WNDe9AbiKfjt3kA8Bf+WNxCvj/ntbW8gnoJ/xxuIp+Df9Qbi9TGvvecNxFPw73sD8RT8B95AvD7mtg+9gXgK/iNvIJ6C/9gbiNfHnPaJNxBPwX/qDcRT8J95A/H6mN0+9wbiKfgvvIF4Cv5LbyBeH7PaV95APAX/tTcQT8F/4w3E62Nm+9YbiKfgd3gD8RT8d95AvD5mtO+9gXgK/gdvIJ6C/9EbiKfgf/IG4vUxvf3sDcRT8L94A/EU/K/eQLw+prXfvIF4Cv53byCegv/DG4in4P/0BuL1MbX95Q3EU/B/ewPxFPw/3kA8Bf+vNxCvjz3bf95APAU/vIF4E36BEggepRA8SiF4lELwKIXgUQrBoxSCRykEj1IIHqUQPEoheJRC8CiF4FEKwaMUgkcpBI9SCB6lEDxKIXiUQvAoheBRCsGjFIJHKQSPUggepRA8SiF4lELwKIXgUQrBoxSCRykEj1IIHqUQPEoheJRC8CiF4FEKwaMUgkcpBI9SCB6lEDxKIXiUQvAoheBRCsGjFIJHKQSPUggepRA8SiF4lELwKIXgUQrBoxSCRykEj1IIHqUQPEoheJRC8CiF4FEKwaMUgkcpBI9CWvsfIw82RsuUaVkAAAAASUVORK5CYII="/>
+      </g>
+    </g>
+  </g>
+</svg>

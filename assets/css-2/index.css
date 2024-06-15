@@ -9,11 +9,15 @@
 }
 
 .text-secondary {
-  color: #93358D !important;
+  color: #FE4D0B !important;
 }
 
 .bg-primary {
-  background-color: #CB489D !important;
+  background-color: #ff4800 !important;
+}
+
+.bg-secondary {
+  background-color: #FE4D0B !important;
 }
 
 .bg-four {
@@ -25,16 +29,53 @@
 }
 
 .bg-gradient {
-  background: linear-gradient(90deg, #cb489d 0%, #c5449b 3%, #a63091 20%, #902289 60%, #831985 80%, #7F1784 100%) !important;
+  background: linear-gradient(90deg, #FF4800 0%, #FF4B00 25%, #FF5700 50%, #FF6900 75%, #FF8200 96%, #FF8200 100%) !important;
   background: #7F1784;
 }
 
+.bg-gray-dark {
+  background-color: #3C3C3C !important;
+}
+
+.bg-brown {
+  background-color: #3A0B0B !important;
+}
+
+.bg-third {
+  background-color: #FF8C00 !important;
+}
+
+.bg-gray-light {
+  background-color: #F2F3F3;
+}
+
+.bg-arrow {
+  background-color: rgba(58, 11, 11, 0.1);
+  position: relative;
+}
+.bg-arrow::after {
+  content: "";
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  background-image: url("../images/icon-2/icon-arrow-right.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 60px;
+  width: 42px;
+}
+
+.bg-pink-light {
+  background-color: #FFE4C3;
+}
+
 * {
-  font-size: 16px;
   margin: 0;
   box-sizing: border-box;
   padding: 0;
   letter-spacing: 0.5px;
+  font-size: 14px;
   font-family: "Montserrat", sans-serif;
 }
 @media screen and (max-width: 768px) {
@@ -52,12 +93,11 @@ p {
 }
 
 .br-right-bottom {
-  border-radius: 0 0 200px 0;
+  border-radius: 0 0 110px 0;
 }
-@media screen and (max-width: 650px) {
-  .br-right-bottom {
-    border-radius: 0 0 125px 0;
-  }
+
+.br {
+  border-radius: 10px;
 }
 
 ul {
@@ -67,7 +107,7 @@ ul li {
   padding-bottom: 0.5rem;
 }
 ul li::marker {
-  color: #93358D;
+  color: #FE4D0B;
 }
 
 .z-1 {
@@ -90,34 +130,15 @@ ul li::marker {
 }
 
 .p-cove {
-  background-color: #E199C2;
+  background-color: #ff4800;
   min-height: 100vh;
 }
 .p-cove p {
-  max-width: 290px;
+  max-width: 595px;
   margin: 0 auto;
   font-weight: 500;
-  letter-spacing: -1px;
-  word-spacing: 3px;
-}
-@media screen and (max-width: 650px) {
-  .p-cove p {
-    max-width: 100%;
-    font-size: 18px;
-    margin-top: 15px;
-  }
-}
-@media screen and (max-width: 650px) {
-  .p-cove {
-    min-height: 90vh;
-    margin-bottom: 10vh;
-  }
-  .p-cove figure {
-    width: 100%;
-  }
-  .p-cove figure img {
-    width: 100%;
-  }
+  letter-spacing: 0.5px;
+  word-spacing: 2px;
 }
 
 .b-header {
@@ -134,7 +155,7 @@ ul li::marker {
 .b-header::before {
   position: absolute;
   content: "";
-  background-image: url("../images/icon/icon-b-header.png");
+  background-image: url("../images/icon-2/icon-b-header.png");
   width: 160px;
   height: 100%;
   background-size: 100% 100%;
@@ -193,7 +214,7 @@ ul li::marker {
   width: 96px;
   height: 96px;
   border-radius: 100%;
-  border: solid 2.5px #D368A5;
+  border: solid 2.5px #FF8C00;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -217,7 +238,7 @@ ul li::marker {
 
 .b-highlight {
   background-color: #D964B026;
-  color: #93358D;
+  color: #FE4D0B;
   font-weight: 500;
   border-radius: 15px 15px 100px 15px;
 }
@@ -228,9 +249,57 @@ ul li::marker {
   word-wrap: break-word;
 }
 
-.explication, .explication * {
+.note {
   font-size: 10px;
-  line-height: 15px;
+  line-height: normal;
+}
+
+table.table > :not(caption) > * > * {
+  border: solid 2px #fff;
+  border-bottom: none;
+}
+table.table tr > th {
+  vertical-align: middle;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  border-radius: 20px 20px 0 0;
+}
+table.table tr > td {
+  vertical-align: middle;
+  padding: 5px 10px;
+  border: none;
+}
+table.table tr > td.image {
+  padding: 0 1px;
+}
+table.table tr > td.image img {
+  max-height: 286px;
+  object-fit: cover;
+}
+table.table tbody tr:nth-child(odd) td:first-child {
+  background-color: #F2F3F3 !important;
+}
+table.table tbody tr:nth-child(odd) td:nth-child(2) {
+  background-color: #CFCBCB !important;
+}
+table.table tbody tr:nth-child(odd) td:nth-child(3) {
+  background-color: #E1D1CB !important;
+}
+table.table tbody tr:nth-child(odd) td:nth-child(4) {
+  background-color: #f3d37496 !important;
+}
+table.table tbody tr:nth-child(even) td:first-child {
+  background-color: #E0E0E0 !important;
+}
+table.table tbody tr:nth-child(even) td:nth-child(2) {
+  background-color: #EAE5E5 !important;
+}
+table.table tbody tr:nth-child(even) td:nth-child(3) {
+  background-color: #FEECE5 !important;
+}
+table.table tbody tr:nth-child(even) td:nth-child(4) {
+  background-color: #a6831a47 !important;
 }
 
 /*# sourceMappingURL=index.css.map */

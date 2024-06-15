@@ -1,0 +1,11 @@
+.fs-18 {
+  font-size: 18px;
+  @media screen and (max-width: $md) {
+    font-size: 14px;
+    line-height: normal;
+  }
+}
+
+.fw-medium {
+  font-weight: 500;
+}

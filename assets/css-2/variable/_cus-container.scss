@@ -1,0 +1,21 @@
+.container {
+  max-width: 960px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.text-primary {
+  color: $purple-dark !important;
+}
+
+.text-secondary {
+  color: $secondary !important;
+}
+
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.bg-secondary {
+  background-color: $secondary !important;
+}
