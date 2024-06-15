@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="445.63" height="174.179" viewBox="0 0 445.63 174.179">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="445.63" height="161.497" viewBox="0 0 445.63 161.497">
   <defs>
     <clipPath id="clip-path">
       <rect id="Rectangle_27" data-name="Rectangle 27" width="142.795" height="119.613" transform="translate(3953.474 190.728)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Group_53" data-name="Group 53" transform="translate(-3793.478 -171.316)">
+  <g id="Group_53" data-name="Group 53" transform="translate(-3793.478 -183.998)">
     <rect id="Rectangle_25" data-name="Rectangle 25" width="427.778" height="119.613" transform="translate(3810.83 190.728)" fill="#edded0"/>
     <g id="Group_46" data-name="Group 46" opacity="0.68" style="mix-blend-mode: multiply;isolation: isolate">
       <g id="Group_45" data-name="Group 45">
@@ -13,7 +13,6 @@
         </g>
       </g>
     </g>
-    <text id="Đặc_điểm_lành_vết_trung_vị_và_khoảng_của_vết_loét_chân" data-name="Đặc điểm lành vết (trung vị và khoảng) của vết loét chân" transform="translate(4017.105 182.316)" fill="#3c3c3c" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-124.131" y="0">Đặc điểm lành vết (trung vị và khoảng) của vết loét chân</tspan></text>
     <line id="Line_1" data-name="Line 1" x2="5.675" transform="translate(3805.155 289.535)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
     <line id="Line_2" data-name="Line 2" x2="5.675" transform="translate(3805.155 269.793)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
     <line id="Line_3" data-name="Line 3" x2="5.675" transform="translate(3805.155 250.309)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>

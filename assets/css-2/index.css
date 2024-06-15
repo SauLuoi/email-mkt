@@ -192,9 +192,10 @@ ul li::marker {
   background-image: url("../images/icon-2/icon-b-header.png");
   width: 160px;
   height: 100%;
-  background-size: 100% 100%;
+  background-size: contain;
   top: 0;
   left: 0;
+  background-repeat: no-repeat;
 }
 @media screen and (max-width: 768px) {
   .b-header::before {
