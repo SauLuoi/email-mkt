@@ -91,27 +91,22 @@ ul li::marker {
 
 .p-cove {
   background-color: #E199C2;
-  min-height: 100vh;
+  min-height: 90vh;
+  margin-bottom: 10vh;
 }
 .p-cove p {
   max-width: 290px;
   margin: 0 auto;
   font-weight: 500;
-  letter-spacing: -1px;
-  word-spacing: 3px;
 }
 @media screen and (max-width: 650px) {
   .p-cove p {
     max-width: 100%;
-    font-size: 18px;
+    font-size: 23px;
     margin-top: 15px;
   }
 }
 @media screen and (max-width: 650px) {
-  .p-cove {
-    min-height: 90vh;
-    margin-bottom: 10vh;
-  }
   .p-cove figure {
     width: 100%;
   }
@@ -157,6 +152,7 @@ ul li::marker {
   .b-footer {
     padding-top: 60px;
     margin-top: -50px;
+    padding-bottom: 5px;
   }
 }
 .b-footer::after {
@@ -202,9 +198,9 @@ ul li::marker {
 }
 @media screen and (max-width: 768px) {
   .b-list .item .icon {
-    width: 48px;
-    padding: 5px;
-    height: 48px;
+    width: 96px;
+    padding: 10px;
+    height: 96px;
   }
 }
 .b-list .item .icon img {

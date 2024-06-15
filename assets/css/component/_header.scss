@@ -1,24 +1,21 @@
 .p-cove {
   background-color: $purple;
-  min-height: 100vh;
+  min-height: 90vh;
+  margin-bottom: 10vh;
 
   p {
     max-width: 290px;
     margin: 0 auto;
     font-weight: 500;
-    letter-spacing: -1px;
-    word-spacing: 3px;
 
     @media screen and (max-width: $sm) {
       max-width: 100%;
-      font-size: 18px;
+      font-size: 23px;
       margin-top: 15px;
     }
   }
 
   @media screen and (max-width: $sm) {
-    min-height: 90vh;
-    margin-bottom: 10vh;
     figure {
       width: 100%;
 

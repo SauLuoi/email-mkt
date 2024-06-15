@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="446.942" height="120.945" viewBox="0 0 446.942 120.945">
+  <g id="Group_99" data-name="Group 99" transform="translate(-3181.473 -576.491)">
+    <rect id="Rectangle_107" data-name="Rectangle 107" width="410.861" height="104.128" transform="translate(3217.554 580.65)" fill="#edded0"/>
+    <line id="Line_33" data-name="Line 33" x2="5.862" transform="translate(3211.692 663.7)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_34" data-name="Line 34" x2="5.862" transform="translate(3211.692 643.022)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_35" data-name="Line 35" x2="5.862" transform="translate(3211.692 622.343)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_36" data-name="Line 36" x2="5.862" transform="translate(3211.692 601.664)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="_50_" data-name="50%" transform="translate(3210.058 582.491)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-11.379" y="0">50%</tspan></text>
+    <text id="_40_" data-name="40%" transform="translate(3210.057 603.171)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-11.379" y="0">40%</tspan></text>
+    <text id="_30_" data-name="30%" transform="translate(3210.057 623.849)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-11.379" y="0">30%</tspan></text>
+    <text id="_20_" data-name="20%" transform="translate(3210.058 644.528)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-11.379" y="0">20%</tspan></text>
+    <text id="_10_" data-name="10%" transform="translate(3210.057 665.206)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-11.379" y="0">10%</tspan></text>
+    <text id="_00_" data-name="00%" transform="translate(3210.058 685.752)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-11.379" y="0">00%</tspan></text>
+    <text id="Tỷ_lệ_tái_phát" data-name="Tỷ lệ tái phát" transform="translate(3187.473 632.715) rotate(-90)" fill="#3c3c3c" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-17.058" y="0">Tỷ lệ tái phát</tspan></text>
+    <rect id="Rectangle_108" data-name="Rectangle 108" width="96.057" height="22.835" transform="translate(3282.015 661.944)" fill="#fe4d0b"/>
+    <rect id="Rectangle_109" data-name="Rectangle 109" width="96.057" height="66.642" transform="translate(3458.369 617.064)" fill="#ff8c00"/>
+    <line id="Line_37" data-name="Line 37" y2="3.665" transform="translate(3330.043 684.245)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="PVP-I" transform="translate(3330.043 695.436)" fill="#3c3c3c" font-size="6.5" font-family="SegoeUI, Segoe UI"><tspan x="-7.823" y="0">PVP-I</tspan></text>
+    <line id="Line_38" data-name="Line 38" y2="3.665" transform="translate(3506.397 684.245)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="Kháng_sinh_toàn_thân" data-name="Kháng sinh toàn thân" transform="translate(3506.398 695.436)" fill="#3c3c3c" font-size="6.5" font-family="SegoeUI, Segoe UI"><tspan x="-30.578" y="0">Kháng sinh toàn thân</tspan></text>
+    <path id="Path_48" data-name="Path 48" d="M3211.692,580.985h5.862V687.91" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_39" data-name="Line 39" x2="416.723" transform="translate(3211.692 684.379)" fill="none" stroke="#3c3c3c" stroke-miterlimit="10" stroke-width="1"/>
+    <text id="_11_" data-name="11%" transform="translate(3330.043 677.882)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-10.431" y="0">11%</tspan></text>
+    <text id="_32_" data-name="32%" transform="translate(3506.398 653.803)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-10.431" y="0">32%</tspan></text>
+  </g>
+</svg>
