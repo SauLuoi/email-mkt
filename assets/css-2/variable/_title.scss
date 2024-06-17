@@ -6,6 +6,17 @@
   }
 }
 
+.fs-28 {
+  font-size: 2.5rem;
+  @media screen and (max-width: $md) {
+    font-size: 2rem;
+    line-height: normal;
+  }
+  @media screen and (max-width: $sm) {
+    font-size: 14px;
+  }
+}
+
 .fw-medium {
   font-weight: 500;
 }

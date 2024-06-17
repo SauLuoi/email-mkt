@@ -160,6 +160,7 @@ table.table-data {
   .row-title {
     background-color: $third !important;
     color: $white;
+    border-bottom: solid 1px $white;
   }
 
   tr {
@@ -167,6 +168,7 @@ table.table-data {
       vertical-align: middle;
       text-align: center;
       padding: 5px;
+      border: solid 1px $white;
 
       &:not(td:first-child) {
         width: 12.5%;
@@ -188,6 +190,12 @@ table.table-data {
         &:nth-child(n+2) {
           border: solid 1px $secondary;
         }
+      }
+    }
+
+    &:last-child {
+      .row-title {
+        border-bottom: solid 1px $secondary;
       }
     }
   }

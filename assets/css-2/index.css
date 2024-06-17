@@ -158,6 +158,21 @@ ul li::marker {
   }
 }
 
+.fs-28 {
+  font-size: 2.5rem;
+}
+@media screen and (max-width: 768px) {
+  .fs-28 {
+    font-size: 2rem;
+    line-height: normal;
+  }
+}
+@media screen and (max-width: 650px) {
+  .fs-28 {
+    font-size: 14px;
+  }
+}
+
 .fw-medium {
   font-weight: 500;
 }
@@ -327,7 +342,7 @@ table.table tbody tr:nth-child(odd) td:nth-child(3) {
   background-color: #E1D1CB !important;
 }
 table.table tbody tr:nth-child(odd) td:nth-child(4) {
-  background-color: #f3d37496 !important;
+  background-color: rgba(243, 211, 116, 0.5882352941) !important;
 }
 table.table tbody tr:nth-child(even) td:first-child {
   background-color: #E0E0E0 !important;
@@ -339,7 +354,7 @@ table.table tbody tr:nth-child(even) td:nth-child(3) {
   background-color: #FEECE5 !important;
 }
 table.table tbody tr:nth-child(even) td:nth-child(4) {
-  background-color: #a6831a47 !important;
+  background-color: rgba(166, 131, 26, 0.2784313725) !important;
 }
 
 @media screen and (max-width: 768px) {
@@ -370,11 +385,13 @@ table.table-data .col-heading {
 table.table-data .row-title {
   background-color: #FF8C00 !important;
   color: #fff;
+  border-bottom: solid 1px #fff;
 }
 table.table-data tr td {
   vertical-align: middle;
   text-align: center;
   padding: 5px;
+  border: solid 1px #fff;
 }
 table.table-data tr td:not(td:first-child) {
   width: 12.5%;
@@ -387,6 +404,9 @@ table.table-data tr:nth-child(n+2) td:first-child {
 }
 table.table-data tr:nth-child(n+2) td:nth-child(n+2) {
   border: solid 1px #FE4D0B;
+}
+table.table-data tr:last-child .row-title {
+  border-bottom: solid 1px #FE4D0B;
 }
 
 /*# sourceMappingURL=index.css.map */
